@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact copy of the petition of the protestants in France to their sovereign Lewis XIV for redress of their present oppressions / faithfully translated from the French.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38911</idno>
+            <idno type="STC">Wing E3636</idno>
+            <idno type="STC">ESTC R27973</idno>
+            <idno type="EEBO-CITATION">10285611</idno>
+            <idno type="OCLC">ocm 10285611</idno>
+            <idno type="VID">44825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1383:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact copy of the petition of the protestants in France to their sovereign Lewis XIV for redress of their present oppressions / faithfully translated from the French.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France.</term>
+               <term>Huguenots.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44825:1"/>
+            <pb facs="tcp:44825:1" rendition="simple:additions"/>
+            <p>AN EXACT COPY OF THE PETITION OF THE <hi>Proteſtants in France</hi> To their Sovereign LEWIS XIV. For Redreſs of their preſent Oppreſſions. <hi>Faithfully Tranſlated from the</hi> French.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year 1680:</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:44825:2"/>
+            <pb n="1" facs="tcp:44825:2"/>
+            <head>A Petition preſented to the King, by thoſe of the Reformed Proteſtant Religion.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Subjects of the Reformed Religion throw them<g ref="char:EOLhyphen"/>ſelves at Your Majeſty's Feet, with a profound Re<g ref="char:EOLhyphen"/>ſpect, to repreſent to Your Majeſty the great Number of Miſchiefs that are heapt upon us from time to time, and to ſupplicate moſt humbly, that Your Maje<g ref="char:EOLhyphen"/>ſty will be pleaſed that we may find the Effects of Your Juſtice and Goodneſs.</p>
+            <p>The Edicts of the Kings your Predeceſſors, and particularly thoſe of <hi>Harry</hi> the Great and <hi>Lewis</hi> the Juſt, which Your Maje<g ref="char:EOLhyphen"/>ſty confirm'd Authentickly at your happy coming to the Crown; and after that by ſeveral other Declarations, have had a ſpecial regard to thoſe of the ſaid Religion, as being ſuch that make a conſiderable part of the People which God hath ſubmit<g ref="char:EOLhyphen"/>ted to your Power. As ſuch they were not onely admitted into Imployments, to practice Arts and follow Trades, without which your Subjects are not able to gain their Livelyhoods, but alſo to Charges and Honours, which are the Recompence of Merit and Virtue. They had, together with the Liberty of their Conſciences, the free Exerciſes of their Religion and Church-Diſcipline in all places allotted by the ſame Edicts. Beſides theſe, Commiſſioners were authorized to hinder all Obſtructions that might impead the ſame.</p>
+            <p>There were Chambers ſet apart, to the end that thoſe of the Religion might aſſure themſelves of impartial Juſtice, as well
+<pb n="2" facs="tcp:44825:3"/>in reference to their Perſons as Eſtates. The Gentlemen par<g ref="char:EOLhyphen"/>ticularly had Right and Poſſeſſion, to put Officers whether of the one or the other Religion into their Fees. In ſhort, Your Majeſty's Suppliants enjoyed to all intents and purpoſes almoſt the ſame Happineſſes and the ſame Advantages as the reſt of Your Majeſties Subjects.</p>
+            <p>It is true, Sir, That they were the Conceſſions of the Kings your Predeceſſors, and of Your Majeſty it ſelf; but ſuch Con<g ref="char:EOLhyphen"/>ceſſions as were eſtabliſhed by the tenor of the ſame Edicts, and render'd as a perpetual and irrevocable Law to keep Your Ma<g ref="char:EOLhyphen"/>jeſties Subjects, both of the one and the other Religion in a firm and laſting Amity. Your Majeſties Subjects may ſay, That they have always lived under the Laws of thoſe Con<g ref="char:EOLhyphen"/>ceſſions, and that they never had the misfortune to render themſelves unworthy of that Favour. On the other ſide they have had this advantage, that Your Majeſty has been moſt gra<g ref="char:EOLhyphen"/>ciouſly pleaſed, to make a publick and ſolemn Declaration of the entire Satisfaction which Your Majeſty has received from the Zeal and Loyalty, which your Suppliants have always made appear in times of greateſt jeopardy and hazard. Not<g ref="char:EOLhyphen"/>withſtanding, Sir, not to look back toward times far remote, how much is the preſent Condition of your Suppliants different from that wherein they were eſtabliſhed ſome years ſince.</p>
+            <p>They are not onely no longer admitted to publick Charges and Imployments, as they were before, but deprived of thoſe wherein they were inveſted, and wherein they had ſerved with Honour and Reputation.</p>
+            <p>They have taken from us the Party-Authority, and the Mu<g ref="char:EOLhyphen"/>nicipal Imployments in thoſe Cities where your Suppliants are moſt numerous, and where they have the moſt Intereſt, in Po<g ref="char:EOLhyphen"/>litical Adminiſtration, and in the Management of that Money which is impoſed upon them.</p>
+            <p>They are no longer admitted to the meaneſt publick Im<g ref="char:EOLhyphen"/>ployments in divers places, nor to the practice of Arts, nor the profeſſion of Trades, which are the onely means of their Sub<g ref="char:EOLhyphen"/>ſiſtence.</p>
+            <p>They can reckon near 300 Churches that have been order<g ref="char:EOLhyphen"/>ed to be pulled down in leſs than ten years, ſome of which were expreſly named in the Edict of <hi>Nantes,</hi> or at leaſt com<g ref="char:EOLhyphen"/>prehended in the tenor of the ſame Edict.</p>
+            <pb n="5" facs="tcp:44825:3"/>
+            <p>The Commiſſioners, who are always ready to hear the pretended Controverſies and Diſputes which are impu<g ref="char:EOLhyphen"/>ted to your Supplyants, refuſe to take Cognizance of thoſe of which your Suppliants complain; or if they do, they never pronounce Judgment, but ſuch as tend to partiality.</p>
+            <p>Many times the Catholick Commiſſioners give judg<g ref="char:EOLhyphen"/>ment againſt your Supplyants, without adviſing or con<g ref="char:EOLhyphen"/>ſulting the Commiſſioners of your Supplyants Religion.</p>
+            <p>They who cannot find Repoſe of Conſcience without the Limits of their Religion, after they have firſt quit<g ref="char:EOLhyphen"/>ted it, and would return again, are expoſed at preſent to the moſt Rigorous puniſhments, under the notion of a Relapſe, being farther Menac'd, That their Miniſters and Conſiſtories ſhall be ſuppreſt, which is ſometimes actually performed.</p>
+            <p>If others have a deſire to go from the Catholick, to the Reformed Religion, they diſturb thoſe of the Reformed Religion, who make their Addreſſes for the ſatisfaction of theſe Scruples, or for a Declaration of their Faith, and pretend it to be an effect of Subornation.</p>
+            <p>The Chambers of Edict are not onely Incorporated into the Parliaments, as it was the Sence of the Edict that they might be, but wholly extinguiſht and ſuppreſt.</p>
+            <p>In ſhort, it is come to this, That your Supplyants Children, though born in the Reformed Religion, are taken from their Parents, before they have attained the Age agreed on and conſented to in the ſaid Edicts, for them to chooſe their Religion.</p>
+            <p>If upon this they make their applications to your Ma<g ref="char:EOLhyphen"/>jeſties Intendants, as charged with the Execution of the ſaid Edicts, either they refuſe to take Cognizance of the ſame, or elſe they Ellude, as for many years they have done, all the Complaints which we bring before them.</p>
+            <p>They would reduce thoſe of the Reformed Religion, to have no more then one School, where there are about
+<pb n="6" facs="tcp:44825:4"/>two or three Thouſand Children, as if one Maſter were ſufficient to teach ſo many Children.</p>
+            <p>There is a Declaration come to your Supplyants hands, which informs them of a Change intended of al<g ref="char:EOLhyphen"/>tering the form of holding their Synods by the intermix<g ref="char:EOLhyphen"/>ture of Catholick Commiſſioners, which is altogether contrary to the Tenor of the Edicts, and the Declarati<g ref="char:EOLhyphen"/>on of <hi>Lewis</hi> the Thirteenth, in the year 1633, and the Cuſtom always obſerved. And all this under pretences quite contrary to the Honour and Reputation of your Supplyants, and the Fidelity they have always manifeſted for your Majeſties Service.</p>
+            <p>The Biſhops under pretence of their Viſits, by a De<g ref="char:EOLhyphen"/>cree of your Council, aſſume to themſelves to hinder the Exerciſe of our Religion ſeveral weeks together.</p>
+            <p>The Catholick Eccleſiaſticks going to the Reformed Churches to hear their Sermons, lay to the charge of our Miniſters thoſe things which they never ſaid; or elſe take occaſions from Scholaſtical Terms of Theologie, which cannot be avoided in Controverſie, to proſecute us Criminally, before Judges incenſed againſt our Religi<g ref="char:EOLhyphen"/>on, while the ſame perſons forbear not to make uſe againſt your Supplyants, of Terms poſitively forbid by the ſaid Edicts.</p>
+            <p>The Chief Judges of places to whom it never belonged to take Cognizance of the ſaid Edicts, aſ<g ref="char:EOLhyphen"/>ſume to themſelves a power, by ways of proceed<g ref="char:EOLhyphen"/>ing unheard of, to interdict and ſilence the Mini<g ref="char:EOLhyphen"/>ſters of whole Provinces. At length it is come to this, that they have Publiſhed a Declaration, by which it is forbidden, <hi>That the Wives of thoſe of the Reformed Re<g ref="char:EOLhyphen"/>ligion, ſhall make uſe of any other than Roman Catholick Chyrurgeons, or Midwives,</hi> which is directly contrary to the Tenor of the ſaid Edicts, and the principles of your Supplyants Religion. It being impoſſible that their Conſciences ſhould allow them to ſubmit to the Roman Catholick Cuſtome, in reference to Roman Catholick
+<pb n="7" facs="tcp:44825:4"/>Infants; in regard that on the one ſide, they do not be<g ref="char:EOLhyphen"/>lieve Baptiſm to be abſolutely neceſſary, when death prevents the care of them that are obliged to procure it; And on the other ſide likewiſe believe, That ſo great a Sacrament cannot be performed by Lay-perſons; and that Dipping cannot ſupply the place of Baptiſm. All theſe, Sir, and many more conſiderable things, which would be too long to recount, and too tedious for your Majeſties peruſal, are either publickly known, or to be juſtifyed by ſuch proofs, as are in your Majeſties Sup<g ref="char:EOLhyphen"/>plyants hands; as alſo by Judgments already given, and by publick Acts and Declarations in print.</p>
+            <p>All the world that ſees to what a low condition your Supplyants are reduced, begins to look upon them, as if they were abandoned to the proſecution and hatred of thoſe that onely ſeek their Ruine; they can add no<g ref="char:EOLhyphen"/>thing more to the general Conſternation, wherein all they of the ſaid Reformed Religion are in all parts of the Kingdome. Some have already left their Habitati<g ref="char:EOLhyphen"/>on, either out of fear of Neceſſity, to ſeek their Repoſe or Quiet in Forreign Countries, the greater number are detained by that Love and Duty which they owe your Majeſty, and perhaps ſome out of reluctancy to leave their Eſtates, and the Land of the their Nativity. How<g ref="char:EOLhyphen"/>ever, all of us, Sir, next to God, expect no other ſafety or repoſe, but from the Juſtice and Clemency of your Majeſty. You have always allowed us your grace and favour to have acceſs to your Sacred perſon, and a ten<g ref="char:EOLhyphen"/>derneſs to hear our Complaints. You have alſo nomina<g ref="char:EOLhyphen"/>ted Commiſſioners to examine them more particularly, and to make their Report; but the Wars wherein your Majeſty has been engaged, having taken up your time a<g ref="char:EOLhyphen"/>broad, the Evils and grievances of your Supplyants have been ſtill multiplyed and increaſt. Now (Sir) that your Majeſty enjoys the Splendour of a Succeſs that has fa<g ref="char:EOLhyphen"/>voured all your Deſigns, and that all your people expect to reap the fruit of your Royal Labours, your Supply<g ref="char:EOLhyphen"/>ants
+<pb n="8" facs="tcp:44825:5"/>alſo hope, That your Majeſties Juſtice and Bounty will not now forſake them; and that you will be pleaſed not to make a diſtinction, between your Majeſties Sup<g ref="char:EOLhyphen"/>plyants and the reſt of your Subjects, or be the occaſion, that while the one are in full joy and proſperity, the o<g ref="char:EOLhyphen"/>ther ſhould be in continual Mourning and Lamentation.</p>
+            <p>For theſe Reaſons, Sir, and for that always your Sup<g ref="char:EOLhyphen"/>plyants have had the ſame zeal and Loyalty for your Service, May it pleaſe your Majeſty to be ſo gracious, at to expreſs your Majeſties Declaration to the Lords of the Council, to your Preſidents, Procters general of your Parliaments, and your Intendants and Commiſſioners ap<g ref="char:EOLhyphen"/>pointed for the execution of the Law; your other Ma<g ref="char:EOLhyphen"/>giſtrates and Officers, that it is your Majeſties Royal In<g ref="char:EOLhyphen"/>tention, that the ſaid Edicts be Obſerved and Executed, and to order the Commiſſioners nominated by your Ma<g ref="char:EOLhyphen"/>jeſty, or ſuch as your Majeſty ſhall be pleaſed to ap<g ref="char:EOLhyphen"/>point, to examine the Memoirs and juſtifications of your Supplyants, and to make Report thereof to your Ma<g ref="char:EOLhyphen"/>jeſty; particularly to your Majeſties Secretaries of State, to make immediate Report of thoſe who are under op<g ref="char:EOLhyphen"/>preſſion, and whoſe Sufferings are moſt grievous; to the end there may be a Remedy applyed according to your Majeſties good will and pleaſure, and your Sup<g ref="char:EOLhyphen"/>plyants ſhall always continue their Wiſhes and their Pray<g ref="char:EOLhyphen"/>ers, for the proſperity of your Sacred perſon and your Reign.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44825:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
